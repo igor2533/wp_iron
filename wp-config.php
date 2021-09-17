@@ -20,16 +20,16 @@
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'biztrack' );
+define( 'DB_NAME', 'sql11438056' );
 
 /** Имя пользователя MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'sql11438056' );
 
 /** Пароль к базе данных MySQL */
-define( 'DB_PASSWORD', 'root' );
+define( 'DB_PASSWORD', 'xvAKbhQyDc' );
 
 /** Имя сервера MySQL */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'sql11.freemysqlhosting.net' );
 
 /** Кодировка базы данных для создания таблиц. */
 define( 'DB_CHARSET', 'utf8mb4' );
